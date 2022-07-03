@@ -1,0 +1,39 @@
+M algebra 1
+M algebra 2
+M geometry
+M pre-calculus
+M calculus 1
+M calculus 2
+E english 1
+E english 2
+E english 3
+E english literature
+E english language
+H global history 1
+H global history 2
+H united states history
+H united states government
+H economics
+S biology 1
+S earth science
+S chemistry
+S biology 2
+S physics
+G principles of engineering
+G mechanical engineering
+G aerospace engineering
+G electrical engineering
+I information technology 1
+I information technology 2
+C computer science 1
+C computer science 2
+A studio art
+A advanced art
+A sculpting
+A digital art
+B band
+M choir
+B jazz band
+Z study hall
+Z study hall
+Z study hall
